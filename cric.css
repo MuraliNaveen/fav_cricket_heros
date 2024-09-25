@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.bg-container {
+    background-image:url("https://res.cloudinary.com/dko49jfq3/image/upload/v1722054311/r1yssepoinpicazf0dtf.jpg");
+  
+    height: 100vh;
+    background-size:cover;
+        text-align: center;
+  }
+  
+  .main-heading {
+    color: white;
+    font-family: monoton;
+  }
+  
+  .paragraph1 {
+    color: white;
+  }
+  .button {
+    
+    color: white;
+    background-color: blue;
+    width: 138px;
+    height: 36px;
+    border-width: 0px;
+    border-radius: 20px;
+    
+}
+.buttoncard{
+  text-align: center;
+}
+
+.favourite-place-bg-container{
+  background-image:url("https://res.cloudinary.com/dko49jfq3/image/upload/v1722054311/r1yssepoinpicazf0dtf.jpg");
+
+ 
+  background-size: cover;
+
+text-align: center;
+height: 100vh;
+
+
+}
+.favourite-places-heading{
+  color:whitesmoke;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: bold;
+  padding:15px;
+
+}
+.favourite-cricketer-card-container{
+  background-color: rgb(93, 92, 92);
+  border-radius: 8px;
+  padding: 15px;
+  margin: 9px;
+  width: 800px;
+   height:130px;
+}
+.favourite-cricketer-card-heading{
+  color: #0f0e46;
+  font-family: "Roboto";
+  font-size: 21px;
+  font-weight: bold;
+}
+
+.favourite-cricketr-card-description{
+    color: white;
+font-family: "Roboto";
+font-size: 13px;
+}
+.favourite-crickters-card-image{
+  width: 200px;
+  height: 100px;
+}
+
+.bg-detailed-container-player{
+  background-image: url("https://res.cloudinary.com/dko49jfq3/image/upload/v1722054311/r1yssepoinpicazf0dtf.jpg");
+  background-size: cover;
+
+  text-align:center;
+}
+.detailed-container-heading{
+  color: white;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: bold;
+  padding: 24px;
+}
+.detailed-container{
+  background-color: white;
+  border-bottom-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+  margin: 14px;
+}
+
+.detailed-view-card-text-container{
+  padding: 10px;
+}
+.heading{
+  color: #0f0e46;
+  font-family: "Roboto";
+  font-size: 23px;
+  font-weight: bold;
+}
+.paragraph{
+  color: #6c6b70;
+  font-family: "Roboto";
+  font-size: 13px;
+}
+.image-container{
+width:75px;
+height: 500px;
+}
+.detailed-container{
+  width:600px;
+  padding:20px;
+
+}
